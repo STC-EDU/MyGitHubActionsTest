@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGithubActionsTest</string>
+    <string name="text_message">Good morning!</string>
 </resources>
